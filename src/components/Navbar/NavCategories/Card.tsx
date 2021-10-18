@@ -64,7 +64,7 @@ const Title = styled.p`
   font-size: 20px;
   text-transform: uppercase;
   white-space: nowrap;
-  color: ${({theme}) => theme.colors.shades[0]};
+  color: ${({theme}) => theme.colors.shades.white};
 
   @media (min-width: ${({theme}) => theme.breakpoints.L}px) {
     font-size: 14px;

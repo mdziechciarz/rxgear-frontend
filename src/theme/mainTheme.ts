@@ -21,8 +21,8 @@ const mainTheme = {
       900: '#191919',
     },
     shades: {
-      0: '#FFFFFF',
-      100: '#000000',
+      white: '#FFFFFF',
+      black: '#000000',
     },
   },
   breakpoints: {
